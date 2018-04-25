@@ -9,7 +9,7 @@ h1	{
 h2 {
 	font-family: pacifico;
 	color:#5D737E;
-	font-size:30px;
+	font-size:40px;
 }
 
 
@@ -22,7 +22,7 @@ a:hover {
 
 
 #logo	{
-	height:100px;
+	height:150px;
 }
 
 
@@ -36,9 +36,15 @@ a:hover {
 	color:white;
 	background-color: #5D737E;
 	font-family: pacifico;
-	font-size:25px;
+	font-size:40px;
 	border-radius: 5px;
 	size:500px;
+}
+
+
+.dropdown-item {
+	font-size:30px;
+	font-family: pacifico;
 }
 
 
@@ -46,17 +52,19 @@ a:hover {
 	flex-direction: row;
 	display:flex;
 	justify-content: space-between;
+	padding-right: 100px;
+	padding-left:100px;
+	padding-bottom: 75px;
 }
 
 
 .logo_reseaux {
 	height:40px;
+	margin-right: 40px;
 }
 
 
 .reseaux{
-	justify-content: space-between;
 	display: flex;
 	flex-direction: row;
-
 }
