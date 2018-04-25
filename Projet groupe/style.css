@@ -1,0 +1,62 @@
+
+h1	{
+	font-family: pacifico;
+	color:#6D5959;
+	font-size:75px;
+}
+
+
+h2 {
+	font-family: pacifico;
+	color:#5D737E;
+	font-size:30px;
+}
+
+
+a {
+	color:#5D737E;
+}
+a:hover {
+  color: #6D5959;
+}
+
+
+#logo	{
+	height:100px;
+}
+
+
+.navbar{
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+.btn {
+	color:white;
+	background-color: #5D737E;
+	font-family: pacifico;
+	font-size:25px;
+	border-radius: 5px;
+	size:500px;
+}
+
+
+#footer{
+	flex-direction: row;
+	display:flex;
+	justify-content: space-between;
+}
+
+
+.logo_reseaux {
+	height:40px;
+}
+
+
+.reseaux{
+	justify-content: space-between;
+	display: flex;
+	flex-direction: row;
+
+}
