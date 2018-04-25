@@ -1,21 +1,33 @@
-body {
-	background-color: beige;
+#logo	{
+	height:100px;
 }
 
-h2 {
-	color:red;
-	font-size:30px;
-	font-family: calibri;
+.navbar{
+	flex-direction: row;
+	justify-content:space-evenly;
 }
 
-h3 {
-	color:blue;
-	font-size:20px;
-	font-family: times new roman;
+
+h1	{
+	font-family: pacifico;
+	color:#6D5959;
+	font-size:75px;
 }
 
-h4 {
-	color:pink;
-	font-size:10px;
-	font-family: calibri;
+
+
+.btn {
+	color:white;
+	background-color: #5D737E;
+	font-family: pacifico;
+	font-size:25px;
+	border-radius: 5px;
+	size:500px;
+}
+
+a {
+	color:#5D737E;
+}
+a:hover {
+  color: #6D5959;
 }
