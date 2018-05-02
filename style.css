@@ -51,6 +51,9 @@ a:hover {
 	size:500px;
 }
 
+.btn-group{
+	padding-right: 30px;
+}
 
 .dropdown-item {
 	font-size:30px;
