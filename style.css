@@ -2,7 +2,7 @@
 h1	{
 	font-family: pacifico;
 	color:#6D5959;
-	font-size:30px;
+	font-size:25px;
 }
 
 
@@ -47,7 +47,7 @@ a:hover {
 	color:white;
 	background-color: #5D737E;
 	font-family: pacifico;
-	font-size:15px;
+	font-size:10px;
 	border-radius: 5px;
 	size:500px;
 }
