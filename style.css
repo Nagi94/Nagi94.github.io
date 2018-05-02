@@ -2,26 +2,26 @@
 h1	{
 	font-family: pacifico;
 	color:#6D5959;
-	font-size:40px;
+	font-size:30px;
 }
 
 
 h2 {
 	font-family: pacifico;
 	color:#5D737E;
-	font-size:20px;
+	font-size:15px;
 }
 
 h3 {
 	font-family: pacifico;
 	color:#FCFCFC;
-	font-size:20px;
+	font-size:15px;
 	overflow-wrap: break-word;
 }
 
 h4 {
 	font-family:quicksand;
-	font-size:15px;
+	font-size:10px;
 }
 
 a {
@@ -33,7 +33,7 @@ a:hover {
 
 
 #logo	{
-	height:80px;
+	height:60px;
 }
 
 
