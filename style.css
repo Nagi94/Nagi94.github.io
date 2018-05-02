@@ -15,13 +15,13 @@ h2 {
 h3 {
 	font-family: pacifico;
 	color:#FCFCFC;
-	font-size:15px;
+	font-size:25px;
 	overflow-wrap: break-word;
 }
 
 h4 {
 	font-family:quicksand;
-	font-size:10px;
+	font-size:15px;
 }
 
 a {
@@ -47,7 +47,7 @@ a:hover {
 	color:white;
 	background-color: #5D737E;
 	font-family: pacifico;
-	font-size:20px;
+	font-size:15px;
 	border-radius: 5px;
 	size:500px;
 }
@@ -84,7 +84,7 @@ a:hover {
 }
 
 #banner{
-	height: 500px;
+		max-height: 500px;
 	}
 
 .d-block{
@@ -140,85 +140,98 @@ h6 {
 }
 
 .vietnam-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
+
 }
 
 .srilanka-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .turquie-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .thailand-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .inde-picture {
-  height: 200px;
-  object-fit: cover;
+  min-height: 100px;
+ max-height:200px;
+object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .bresil-picture {
-  height: 200px;
-  object-fit: cover;
+  min-height: 100px;
+ max-height:200px;
+object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .indonesie-picture {
-  height: 200px;
-  object-fit: cover;
+  min-height: 100px;
+ max-height:200px;
+object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .mexique-picture {
-  height: 200px;
-  object-fit: cover;
+ min-height: 100px;
+ max-height:200px;
+object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .chine-picture {
-  height: 200px;
-  object-fit: cover;
+  min-height: 100px;
+ max-height:200px;
+object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .canada-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .egypte-picture {
-  height: 200px;
+  min-height: 100px;
+ max-height:200px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
 
 .japon-picture {
-  height: 200px;
-  object-fit: cover;
+min-height: 100px;
+ max-height:200px;  
+ object-fit: cover;
   margin-bottom: 10px;
   border-radius: 4px;
 }
@@ -226,6 +239,7 @@ h6 {
 .card {
   padding: 20px;
   margin-bottom: 20px;
+ height:510px;
 }
 
 
