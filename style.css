@@ -12,6 +12,16 @@ h2 {
 	font-size:40px;
 }
 
+h3 {
+	font-family: pacifico;
+	color:#FCFCFC;
+	font-size:50px;
+}
+
+h4 {
+	font-family:quicksand;
+	font-size:50px;
+}
 
 a {
 	color:#5D737E;
@@ -68,3 +78,130 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 }
+
+
+.carousel-inner {
+	height:500px;
+	min-height: 500px;
+	max-height:500px;
+}
+
+
+#d-block {
+	position: bottom;
+	size:50%;
+}
+
+
+.search {
+	height: 20px;
+}
+
+
+.section {
+  padding: 100px 10px;
+  background: #2e3d4d;
+}
+
+.section h1 {
+  color: white;
+  margin-bottom: 50px;
+}
+
+.section h2 {
+  font-size: 18px;
+}
+
+.section p {
+  font-size: 12px;
+}
+
+.vietnam-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.srilanka-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.turquie-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.thailand-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.inde-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.bresil-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.indonesie-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.mexique-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.chine-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.canada-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.egypte-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.japon-picture {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.card {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
