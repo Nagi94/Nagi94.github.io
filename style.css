@@ -2,25 +2,26 @@
 h1	{
 	font-family: pacifico;
 	color:#6D5959;
-	font-size:50px;
+	font-size:40px;
 }
 
 
 h2 {
 	font-family: pacifico;
 	color:#5D737E;
-	font-size:30px;
+	font-size:20px;
 }
 
 h3 {
 	font-family: pacifico;
 	color:#FCFCFC;
-	font-size:30px;
+	font-size:20px;
+	overflow-wrap: break-word;
 }
 
 h4 {
 	font-family:quicksand;
-	font-size:20px;
+	font-size:15px;
 }
 
 a {
@@ -32,7 +33,7 @@ a:hover {
 
 
 #logo	{
-	height:100px;
+	height:80px;
 }
 
 
@@ -83,17 +84,18 @@ a:hover {
 }
 
 #banner{
-	min-height: 500px;
-	max-height:500px;
-	min-width: 500px;
-}
+	height: 500px;
+	}
 
 .d-block{
-	max-height: 500px;
-	min-height:500px;
-	min-width: 500px;
-	size: cover;
+	height:500px;
 }
+
+
+.carousel-caption{
+object-fit: cover;
+}
+
 
 .search {
 	height: 20px;
