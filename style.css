@@ -16,7 +16,6 @@ h3 {
 	font-family: pacifico;
 	color:#FCFCFC;
 	font-size:15px;
-	overflow-wrap: break-word;
 }
 
 h4 {
@@ -57,7 +56,7 @@ a:hover {
 }
 
 .dropdown-item {
-	font-size:30px;
+	font-size:15px;
 	font-family: pacifico;
 }
 
@@ -84,16 +83,16 @@ a:hover {
 }
 
 #banner{
-		max-height: 500px;
+		height: 300px;
 	}
 
 .d-block{
-	height:500px;
+	height:300px;
 }
 
-
 .carousel-caption{
-object-fit: cover;
+	word-wrap: break-word;
+	transform: translateY(57%);
 }
 
 
@@ -241,7 +240,6 @@ min-height: 100px;
   margin-bottom: 20px;
  height:510px;
 }
-
 
 
 
