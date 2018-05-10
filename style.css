@@ -9,7 +9,7 @@ h1	{
 h2 {
 	font-family: pacifico;
 	color:#5D737E;
-	font-size:15px;
+	font-size:17px;
 }
 
 h3 {
@@ -242,4 +242,9 @@ min-height: 100px;
 }
 
 
+#mappemonde {
+	
+	text-align: center}
 
+
+#newsletter { text-align: center }
